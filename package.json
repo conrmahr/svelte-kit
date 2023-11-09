@@ -34,7 +34,6 @@
 	"type": "module",
 	"dependencies": {
 		"@auth/core": "^0.18.0",
-		"@auth/sveltekit": "^0.3.11",
-		"dotenv": "^16.3.1"
+		"@auth/sveltekit": "^0.3.11"
 	}
 }
